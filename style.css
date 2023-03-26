@@ -10,3 +10,7 @@ p {
     font-family: "Poppins", sans-serif;
     font-weight: normal;
 }
+
+.hero {
+    background-color: #F9F7FE;
+}
